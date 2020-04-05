@@ -1,0 +1,39 @@
+body{ background-image: url(../img/bg1.jpg);}
+a{ color:#19537D;text-decoration: none; line-height:16px;}
+a:hover { text-decoration:underline;}
+p{ line-height:160%;}
+
+.HeadBox{ height: 50px; width: 100%;}
+
+.MainBox .TopTitle{ width:1200px;height:auto;clear:both;margin-left:auto;margin-right:auto;overflow:hidden;}
+.MainBox .MainItem{ width:1200px;clear:both;margin-left:auto;margin-right:auto;overflow:hidden;}
+.MainBox .MainItem .CenterItem{ width:820px; clear:left; float:left;}
+.MainBox .MainItem .CenterItem .Card{width:820px; clear:left; float:left; }
+.MainBox .MainItem .CenterItem .Card .LeftCard{ width:360px; clear:left; float:left; height:auto; background-color:#F5F4EB; overflow:hidden; margin:15px; line-height:200%;border:1px solid #C8C7BC;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+.MainBox .MainItem .CenterItem .Card .LeftCard a{ width: 360px;}
+.MainBox .MainItem .CenterItem .Card .LeftCard img{ width: 360px}
+.MainBox .MainItem .CenterItem .Card .LeftCard h4{ margin-top: 10px;margin-bottom: 20px; text-align: center}
+.MainBox .MainItem .CenterItem .Card .RightCard { width:360px; clear:right; float:right; height:auto; background-color:#F5F4EB; overflow:hidden; margin:15px; line-height:200%;border:1px solid #C8C7BC;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+.MainBox .MainItem .CenterItem .Card .RightCard a{ width: 360px;}
+.MainBox .MainItem .CenterItem .Card .RightCard img{ width: 360px}
+.MainBox .MainItem .CenterItem .Card .RightCard h4{ margin-top: 10px;margin-bottom: 20px; text-align: center}
+
+
+
+.MainBox .MainItem .RightItem{ width:350px; clear:right; float:right;}
+.MainBox .MainItem .RightItem .Sons{margin-top: 20px; width:348px; height:auto; float:left; background-color:#F5F4EB; overflow:hidden; border:1px solid #C8C7BC;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+.MainBox .MainItem .RightItem .Sons .HeadTitle{ height:25px; line-height:25px; clear:both; font-weight:bold; font-size:18px; margin-top:20px; margin-left:20px; overflow:hidden;}
+.MainBox .MainItem .RightItem .Sons .HeadTitle .TitleLeft{ height:21px; width:3px; margin-top:1px; float:left; clear:left; background-color:#A2C241; margin-right:8px;}
+.MainBox .MainItem .RightItem .Sons .cont{ height:auto; clear:both; overflow:hidden; padding-bottom:20px;}
+.MainBox .MainItem .RightItem .Sons .cont a{ font-size:16px; height:auto; line-height:24px; width:80px; float:left; margin-top:15px; margin-left:20px; text-align:center;border:1px solid #DAD9D1;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+.MainBox .MainItem .RightItem .PoetryBoard{ margin-top: 20px; width:348px; height:auto; float:left;background-color:#F5F4EB; overflow:hidden; border:1px solid #C8C7BC;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+.MainBox .MainItem .RightItem .PoetryBoard .HeadTitle{ height:25px; line-height:25px; clear:both; font-weight:bold; font-size:18px; margin-top:20px; margin-left:20px; overflow:hidden;}
+.MainBox .MainItem .RightItem .PoetryBoard .HeadTitle .TitleLeft{ width:3px; height:21px; margin-top:1px; float:left; clear:left; background-color:#A2C241; margin-right:8px;}
+.MainBox .MainItem .RightItem .PoetryBoard ol li a{ font-size:15px; line-height:30px; height:45px;}
+.MainBox .MainItem .RightItem .FeeBox{ margin-top: 20px; width:348px; height:auto; float:left; background-color:#F5F4EB; line-height:34px;border:1px solid #C8C7BC; -moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+.MainBox .MainItem .RightItem .FeeBox .HeadTitle{ height:25px; line-height:25px; clear:both; font-weight:bold; font-size:18px; margin-top:20px; margin-left:20px; overflow:hidden;}
+.MainBox .MainItem .RightItem .FeeBox .HeadTitle .TitleLeft{ width:3px; height:21px; margin-top:1px; float:left; clear:left; background-color:#A2C241; margin-right:8px;}
+.MainBox .MainItem .RightItem .FeeBox img{ float:left; margin:0; padding: 10px; width:330px;}
+
+.FootBox{ clear:both; overflow:hidden; text-align:center; border-top:1px solid #C8C7BC; width:1200px; margin-left:auto; margin-right:auto; margin-top:20px; padding-top:10px; padding-bottom:10px; color:#676767;}
+.FootBox a{ color:#676767;}

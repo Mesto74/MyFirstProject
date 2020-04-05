@@ -1,0 +1,8 @@
+#NavigationBar{ height: auto; width: 100%;background:rgba(0, 0, 0,0.3);position: fixed; top: 0;left: 0;padding-left: 50px;padding-top: 20px;margin-bottom: 5px;font-size: 1.2rem;font-weight: 300;}
+#NavigationBar ul{ list-style-type: none;padding: 0;margin:0;}
+#NavigationBar ul li { font-family: 幼圆 sans-serif;float:left;width: 120px;position: relative;margin-left: 2%;margin-right: 2%;}
+#NavigationBar ul li a{ display: block;color:white;text-align: center;padding-bottom: 15px;text-decoration: none; }
+#NavigationBar ul li a:hover{ color: #19537D;}
+#NavigationBar ul li ul{ position: absolute;background:rgba(0, 0, 0,0.3);display: none;}
+#NavigationBar ul li ul li{ padding-top: 10px;}
+#NavigationBar ul li:hover ul{display: block;}
